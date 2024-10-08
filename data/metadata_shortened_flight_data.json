@@ -1,0 +1,13 @@
+{
+    "dc:description": "FAA and Nav Canada flight data from March 2020",
+    "dc:format": "CSV",
+    "dc:source": "OpenSky Dataset (https://zenodo.org/records/7923702)",
+    "dc:custom":
+    {
+        "Start Date": "2020-03-01",
+        "End Date": "2020-03-31",
+        "Total FAA Records": 119850,
+        "Total Nav Canada Records": 32947,
+        "Total Records": 152797
+    }
+}
